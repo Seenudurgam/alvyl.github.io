@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galleries on Alvyl Consulting</title>
-    <link>https://alvyl.com/gallery/</link>
+    <link>/gallery/</link>
     <description>Recent content in Galleries on Alvyl Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2018 15:17:26 +0530</lastBuildDate>
     
-	<atom:link href="https://alvyl.com/gallery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reverie Language Technologies</title>
-      <link>https://alvyl.com/gallery/reverie/</link>
+      <link>/gallery/reverie/</link>
       <pubDate>Tue, 20 Feb 2018 15:17:26 +0530</pubDate>
       
-      <guid>https://alvyl.com/gallery/reverie/</guid>
+      <guid>/gallery/reverie/</guid>
       <description></description>
     </item>
     
