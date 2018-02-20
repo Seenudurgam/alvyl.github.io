@@ -6,10 +6,19 @@
     <description>Recent content on Alvyl Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2018 15:17:26 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 15:57:26 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Applause Co. LLC</title>
+      <link>/gallery/applause/</link>
+      <pubDate>Tue, 20 Feb 2018 15:57:26 +0530</pubDate>
+      
+      <guid>/gallery/applause/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reverie Language Technologies</title>
@@ -28,18 +37,6 @@
       <guid>/about/</guid>
       <description>Alvyl Consulting is a young and energetic team of consultants available to take up any consulting work. We specialize in Open Source Technologies and have proven skills in building SaaS Platforms, Enterprise Java and NodeJS based technology stacks in AWS cloud.
 Alvyl Consulting is headed by Hari Krishna Ganji. Hari is a cross-functional engineer with extensive experience, having designed and delivered Android Apps, Android Games, Chrome Plugins, Data Integration Pipelines, Enterprise Data Migrations and DevOps Automation.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/applause/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/applause/</guid>
-      <description>draft: true
-+++
-date = &amp;ldquo;2018-02-20T15:57:26+05:30&amp;rdquo; title = &amp;ldquo;Applause Co. LLC&amp;rdquo; image = &amp;ldquo;applause_logo.png&amp;rdquo; alt = &amp;ldquo;Applause - Disrupting the film industry, bridging technology gaps&amp;rdquo; color = &amp;ldquo;#ECAF28&amp;rdquo; link1 = &amp;ldquo;https://applauseco.com/&amp;quot; link2 = &amp;ldquo;&amp;rdquo;
-+++</description>
     </item>
     
     <item>
