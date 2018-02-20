@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alvyl Consulting</title>
-    <link>https://alvyl.com/</link>
+    <link>/</link>
     <description>Recent content on Alvyl Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2018 15:17:26 +0530</lastBuildDate>
     
-	<atom:link href="https://alvyl.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reverie Language Technologies</title>
-      <link>https://alvyl.com/gallery/reverie/</link>
+      <link>/gallery/reverie/</link>
       <pubDate>Tue, 20 Feb 2018 15:17:26 +0530</pubDate>
       
-      <guid>https://alvyl.com/gallery/reverie/</guid>
+      <guid>/gallery/reverie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>We are Alvyl Consulting</title>
-      <link>https://alvyl.com/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 19 Feb 2018 18:16:41 +0530</pubDate>
       
-      <guid>https://alvyl.com/about/</guid>
+      <guid>/about/</guid>
       <description>Alvyl Consulting is a young and energetic team of consultants available to take up any consulting work. We specialize in Open Source Technologies and have proven skills in building SaaS Platforms, Enterprise Java and NodeJS based technology stacks in AWS cloud.
 Alvyl Consulting is headed by Hari Krishna Ganji. Hari is a cross-functional engineer with extensive experience, having designed and delivered Android Apps, Android Games, Chrome Plugins, Data Integration Pipelines, Enterprise Data Migrations and DevOps Automation.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://alvyl.com/applause/</link>
+      <link>/applause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alvyl.com/applause/</guid>
+      <guid>/applause/</guid>
       <description>draft: true
 +++
 date = &amp;ldquo;2018-02-20T15:57:26+05:30&amp;rdquo; title = &amp;ldquo;Applause Co. LLC&amp;rdquo; image = &amp;ldquo;applause_logo.png&amp;rdquo; alt = &amp;ldquo;Applause - Disrupting the film industry, bridging technology gaps&amp;rdquo; color = &amp;ldquo;#ECAF28&amp;rdquo; link1 = &amp;ldquo;https://applauseco.com/&amp;quot; link2 = &amp;ldquo;&amp;rdquo;
@@ -44,10 +44,10 @@ date = &amp;ldquo;2018-02-20T15:57:26+05:30&amp;rdquo; title = &amp;ldquo;Applau
     
     <item>
       <title></title>
-      <link>https://alvyl.com/reunify/</link>
+      <link>/reunify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alvyl.com/reunify/</guid>
+      <guid>/reunify/</guid>
       <description>draft: true
 +++ date = &amp;ldquo;2018-02-20T14:57:26+05:30&amp;rdquo; title = &amp;ldquo;Reunify LLC&amp;rdquo; image = &amp;ldquo;reunify_logo.jpg&amp;rdquo; alt = &amp;ldquo;Reunify - AI-Powered solutions to increase Retention, Up-sell and Net Promoter Score&amp;rdquo; color = &amp;ldquo;#FF9000&amp;rdquo; link1 = &amp;ldquo;http://www.reunify.com/&amp;quot; link2 = &amp;ldquo;&amp;rdquo;
 +++</description>
