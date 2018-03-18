@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on Alvyl Consulting</title>
+    <link>/team/</link>
+    <description>Recent content in Teams on Alvyl Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:03 +0530</lastBuildDate>
+    
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junior Consultant</title>
+      <link>/team/navya/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:03 +0530</pubDate>
+      
+      <guid>/team/navya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senior Consultant</title>
+      <link>/team/goutham/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:01 +0530</pubDate>
+      
+      <guid>/team/goutham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Founder, Chief Consultant</title>
+      <link>/team/hari/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/team/hari/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
