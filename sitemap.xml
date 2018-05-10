@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/team/darshan/</loc>
+    <lastmod>2018-03-19T00:00:05+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/team/poly/</loc>
+    <lastmod>2018-03-19T00:00:04+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/team/navya/</loc>
     <lastmod>2018-03-19T00:00:03+05:30</lastmod>
   </url>
@@ -24,7 +34,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-19T00:00:03+05:30</lastmod>
+    <lastmod>2018-03-19T00:00:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -40,7 +50,7 @@
   
   <url>
     <loc>/team/</loc>
-    <lastmod>2018-03-19T00:00:03+05:30</lastmod>
+    <lastmod>2018-03-19T00:00:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
